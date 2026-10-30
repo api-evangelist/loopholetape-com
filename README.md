@@ -64,5 +64,141 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-loopholetape-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://loopholetape.com/
+Loopholetape provides live rug checks for new pump.fun memecoins on the Solana blockchain. It delivers calibrated rug probability, graduation odds, holder information, creator records, and token risk cards, computed in real time from independent capture of every on‑chain event. The service requires no account; payments are per request in USDC on Solana or Base via x402, with pricing from $0.001 per request. Operated by the loopholetape project, it offers transparent risk assessment for crypto traders.
+
+**Areas:** Company · Crypto · Solana · Risk · API
+
+## loopholetape-com on APIs.io
+
+Everything profiled for loopholetape-com is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/loopholetape-com/](https://apis.io/providers/loopholetape-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (3)
+
+- [loopholetape-com Discovery API](https://apis.io/apis/loopholetape-com/loopholetape-com-discovery-api/) — machine-readable descriptions of this service
+- [loopholetape-com Free API](https://apis.io/apis/loopholetape-com/loopholetape-com-free-api/) — no payment
+- [loopholetape-com Paid API](https://apis.io/apis/loopholetape-com/loopholetape-com-paid-api/) — x402-paid resources (USDC on Solana mainnet or Base)
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Loopholetape Com Agentic Access](https://apis.io/agentic-access/loopholetape-com/loopholetape-com-agentic-access/)
+
+#### JSON Schema (3)
+
+The data models the API reads and writes.
+
+- [Envelope](https://apis.io/schemas/loopholetape-com/loopholetape-com-envelope/)
+- [RiskEnvelope](https://apis.io/schemas/loopholetape-com/loopholetape-com-risk-check/)
+- [VerdictEnvelope](https://apis.io/schemas/loopholetape-com/loopholetape-com-verdict/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Loopholetape Com Context](https://apis.io/jsonld/loopholetape-com/loopholetape-com-context/)
+
+#### Overlays (1)
+
+OpenAPI overlays, including conversational phrasing for each operation.
+
+- [Loopholetape Com Openapi Overlay](https://apis.io/overlays/loopholetape-com/loopholetape-com-openapi-overlay/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [loopholetape-com API Rules](https://apis.io/rules/loopholetape-com/loopholetape-com-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Loopholetape Com Authentication](https://apis.io/security/loopholetape-com/loopholetape-com-authentication/)
+- [Loopholetape Com Domain Security](https://apis.io/security/loopholetape-com/loopholetape-com-domain-security/)
+- [Loopholetape Com Vulnerability Disclosure](https://apis.io/security/loopholetape-com/loopholetape-com-vulnerability-disclosure/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Loopholetape Com Plans Pricing](https://apis.io/plans/loopholetape-com/loopholetape-com-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Loopholetape Com Rate Limits](https://apis.io/rate-limits/loopholetape-com/loopholetape-com-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://loopholetape.com/)
+- [Documentation](https://loopholetape.com/docs)
+- [Getting started](https://loopholetape.com/docs)
+- [API reference](https://api.loopholetape.com/docs)
+- [Pricing](https://api.loopholetape.com/pricing)
+- [Security](https://api.loopholetape.com/terms)
+- [Terms of service](https://loopholetape.com/terms)
+- [Privacy policy](https://loopholetape.com/privacy)
+- [GitHub](https://github.com/loopholetape)
+
+## API Evangelist rating
+
+**Kin Score 56.0** — strong · rubric 0.25.0 · scored 2026-10-30
+
+| Facet | Score |
+|---|---|
+| Discoverability | 65.0 |
+| Contract quality | 57.4 |
+| Contract governance | 79.1 |
+| Operational transparency | 44.2 |
+| Developer ergonomics | 56.4 |
+| Access clarity | 31.6 |
+
+**Agent readiness 50.6** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | conformant |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | documented (partial credit) |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 30.4** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/loopholetape-com/](https://apis.io/providers/loopholetape-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for loopholetape-com: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/loopholetape-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
